@@ -1,4 +1,4 @@
-package fields;
+package Fields;
 // package com.javacodegeeks.snippets.desktop;
  
 import java.awt.Color;
